@@ -1,12 +1,12 @@
 # Using pyenv
 Install a version of python for this project
 ```bash
-pyenv install 3.6.0
+pyenv install 3.6.3
 ```
 
 # Create virtual environment for this project
 ```bash
-pyenv virtualenv 3.6.0 deepShit
+pyenv virtualenv 3.6.3 deepShit
 ```
 
 # Activate my virtual environment
