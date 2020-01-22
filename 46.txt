@@ -1,0 +1,10 @@
+churros
+clam_chowder
+donuts
+fish_and_chips
+frozen_yogurt
+ice_cream
+pork_chop
+red_velvet_cake
+strawberry_shortcake
+sushi
