@@ -20,3 +20,7 @@ pyenv activate deepShit
 pyenv uinstall deepShit
 ```
 
+# Configure poetry to create virtual environments inside the project's root directory
+```bash
+poetry config virtualenvs.in-project true
+```
